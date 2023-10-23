@@ -14,8 +14,8 @@ Hi, I’m navodya sewmini<br>👀 I’m interested in the programming side<br>�
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/navodya-sewmini-8a1862221/) 
+<br><br><br><br><br>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 

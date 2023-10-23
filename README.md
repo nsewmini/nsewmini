@@ -1,17 +1,12 @@
 # 💫 About Me:
 
  
- <div style="float: right; margin: 0 10px 0 10px;">
-  <img align="right" alt="coding" width="300" src="![0_K2WLMTExLyida7OR](https://github.com/nsewmini/nsewmini/assets/96427674/125c9aba-1d24-4f40-aa95-3353d86058ea)
-">
+<div style="float: right; margin: 0 10px 0 10px;">
+  <img align="right" alt="coding" width="300" src="https://github.com/nsewmini/nsewmini/assets/96427674/125c9aba-1d24-4f40-aa95-3353d86058ea">
 </div>
 
-
-
-
-
-Hi, I’m navodya sewmini<br>👀 I’m interested in programming side<br>🌱 I’m currently learning and following computer science degree programme<br><br><br>
-💞️ Computer Science undergraduate student at NSBM green university.
+Hi, I’m navodya sewmini<br>👀 I’m interested in the programming side<br>🌱 I’m currently learning and following a computer science degree program<br><br><br>
+💞️ Computer Science undergraduate student at NSBM Green University.
 
 
  

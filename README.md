@@ -1,6 +1,22 @@
 # 💫 About Me:
 
-![0_K2WLMTExLyida7OR](https://github.com/nsewmini/nsewmini/assets/96427674/942b6373-9333-405b-8c81-221ae13ece82)
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .left-align {
+            float: left; /* Float the element to the left */
+            margin-right: 20px; /* Add some margin to separate it from other content */
+        }
+    </style>
+</head>
+<body>
+    <img src="https://github.com/nsewmini/nsewmini/assets/96427674/942b6373-9333-405b-8c81-221ae13ece82" alt="Your GIF Alt Text" class="left-align">
+    
+    <!-- Other content goes here -->
+</body>
+</html>
 
 
 Hi, I’m navodya sewmini<br>👀 I’m interested in the programming side<br>🌱 I’m currently learning and following a computer science degree program<br><br><br>

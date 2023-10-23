@@ -4,7 +4,7 @@
 Hi, I’m navodya sewmini<br>👀 I’m interested in programming side<br>🌱 I’m currently learning and following computer science degree programme<br><br><br>
 💞️ Computer Science undergraduate student at NSBM green university.
 
-<img align="right" alt="coding" width="300" src="![0_K2WLMTExLyida7OR](https://github.com/nsewmini/nsewmini/assets/96427674/21833d38-8e61-4a72-81dc-14c49030e0da)">
+<img align="right" alt="coding" width="300" src="!https://github.com/nsewmini/nsewmini/assets/96427674/21833d38-8e61-4a72-81dc-14c49030e0da">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/navodya-sewmini-8a1862221/) 

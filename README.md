@@ -1,25 +1,9 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Navodya Sewmini</h1>
+
+<img align="right" alt="coding" width="350" height="220" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
 
 
-
-<html>
-<head>
-    <style>
-        .left-align {
-            float: left; /* Float the element to the left */
-            margin-right: 20px; /* Add some margin to separate it from other content */
-        }
-    </style>
-</head>
-<body>
-    <img src="https://github.com/nsewmini/nsewmini/assets/96427674/942b6373-9333-405b-8c81-221ae13ece82" alt="Your GIF Alt Text" class="left-align">
-    
-    <!-- Other content goes here -->
-</body>
-</html>
-
-
-Hi, I’m navodya sewmini<br>👀 I’m interested in the programming side<br>🌱 I’m currently learning and following a computer science degree program<br><br><br>
+🌱 I’m currently learning and following a computer science degree program<br><br><br>
 💞️ Computer Science undergraduate student at NSBM Green University.
 <br><br><br>
 
@@ -30,7 +14,6 @@ Hi, I’m navodya sewmini<br>👀 I’m interested in the programming side<br>�
 
 
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -38,7 +21,7 @@ Hi, I’m navodya sewmini<br>👀 I’m interested in the programming side<br>�
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -86,7 +69,7 @@ Hi, I’m navodya sewmini<br>👀 I’m interested in the programming side<br>�
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />

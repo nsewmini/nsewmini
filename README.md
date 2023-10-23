@@ -3,16 +3,13 @@
 <img align="right" alt="coding" width="350" height="220" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
 
 
-🌱 I’m currently learning and following a computer science degree program<br><br><br>
-💞️ Computer Science undergraduate student at NSBM Green University.
-<br><br><br>
-
- 
+🌱 undergraduate student pursuing a degree in Computer Science<br><br> at NSBM Green University<br><br>
+💞️ With a passion for technology and a strong desire to explore the ever-evolving world of computer science
+💞️goal is to make a meaningful impact in the digital realm and help shape the future of technology.
+<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/navodya-sewmini-8a1862221/) 
-
-
 
 
 ###
@@ -20,7 +17,7 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
+## Language and Tools:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />

@@ -75,7 +75,7 @@ Hi, I’m navodya sewmini<br>👀 I’m interested in the programming side<br>�
   <img src="https://img.shields.io/static/v1?message=Visual Studio Marketplace&logo=visualstudio&label=&color=e2165e&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="visualstudio logo"  />
 </div>
 
-###
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nsewmini&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nsewmini&theme=radical&hide_border=false)<br/>

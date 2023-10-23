@@ -1,10 +1,10 @@
 # 💫 About Me:
 
+<div style="float: right; margin: 0 10px 0 0;">
+ ![0_K2WLMTExLyida7OR](https://github.com/nsewmini/nsewmini/assets/96427674/e89b6deb-3538-479e-983b-3571037e8b18)
+</div>
 
-Hi, I’m navodya sewmini<br>👀 I’m interested in programming side<br>🌱 I’m currently learning and following computer science degree programme<br>💞️ Computer Science undergraduate student at NSBM green university.<br>📫 I'm passionate about software development, web application development ,data structures, and algorithms.<br>
-![0_K2WLMTExLyida7OR](https://github.com/nsewmini/nsewmini/assets/96427674/37b3a9cc-b1f9-4d8c-bf2d-1ae041e7579b)
-
-📫 I'm also interested in machine learning and artificial intelligence.<br>📫 Repositories:Web Development Projects: A collection of web development projects using HTML, CSS, and JavaScript.<br>Includes personal website and a few web applications.<br>📫 Systems fundementals Project: A project completed as part of an system fundemental module. Implements a simple file system using C# with cloud connections.<br>📫airline system project:using mysql implement the airline system.
+Hi, I’m navodya sewmini<br>👀 I’m interested in programming side<br>🌱 I’m currently learning and following computer science degree programme<br>💞️ Computer Science undergraduate student at NSBM green university.<br>📫 I'm passionate about software development, web application development ,data structures, and algorithms.<br>📫 I'm also interested in machine learning and artificial intelligence.<br>📫 Repositories:Web Development Projects: A collection of web development projects using HTML, CSS, and JavaScript.<br>Includes personal website and a few web applications.<br>📫 Systems fundementals Project: A project completed as part of an system fundemental module. Implements a simple file system using C# with cloud connections.<br>📫airline system project:using mysql implement the airline system.
 
 
 ## 🌐 Socials:

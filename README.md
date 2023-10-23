@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
     <style>

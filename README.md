@@ -86,7 +86,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nsewmini&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-https://github-profile-trophy.vercel.app/?username=nswemini-ma&theme=matrix
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=nswemini-ma&theme=matrix)
+
 
 
 

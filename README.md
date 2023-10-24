@@ -17,7 +17,8 @@
 ###
 ##  Tools:
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<br><br>
+<br>
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -32,42 +33,10 @@
 
 
 <br>
-<br>
-<br>
-<br>
 
 <a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
-<p align="center">
-    <a href="https://wakatime.com/@nsewmini">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nsewmini&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
-
-
-
-<br>
-<br>
-<div align="center">
-
-
-# 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsewmini&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsewmini&theme=blue-green&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsewmini&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
 <br><br>
 
-<br>
-
-
-<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br>
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <br>
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -165,7 +134,40 @@
     </table>
 </div>
 
+<br>
+<br>
+<br>
+
+<a href="https://www.youtube.com/watch?v=KQBVOQ79G2s"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
+<p align="center">
+    <a href="https://wakatime.com/@nsewmini">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=nsewmini&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
+
+
+
+
+<br>
+<br>
+<div align="center">
+
+
+# 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nsewmini&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nsewmini&theme=blue-green&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nsewmini&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 <br><br>
+
+<br>
+
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nsewmini&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
@@ -173,7 +175,7 @@
 
 <br>
 <br>
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 

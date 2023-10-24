@@ -3,6 +3,8 @@
 <img align="right" alt="coding" width="350" height="220" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">
 
 
+
+
 🌱 undergraduate student pursuing a degree in Computer Science<br><br> At NSBM Green University<br><br>
 💞️ With a passion for technology and a strong desire to explore the ever-evolving world of computer science.,<br>
 💞️goal is to make a meaningful impact in the digital realm and help shape the future of technology.

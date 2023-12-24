@@ -8,9 +8,9 @@
 
 
 
-💞️ undergraduate student pursuing a degree in Computer Science  At NSBM Green University<br><br>
+💞️ Undergraduate student pursuing a degree in Computer Science  At NSBM Green University<br><br>
 💞️ With a passion for technology and a strong desire to explore the ever-evolving world of computer science.<br><br>
-💞️goal is to make a meaningful impact in the digital realm and help shape the future of technology.
+💞️ Goal is to make a meaningful impact in the digital realm and help shape the future of technology.
 <br><br>
 
 ## 🌐 Socials:
@@ -18,7 +18,7 @@
 <br><br>
 
 ###
-##  Socials:
+##  
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <br><br>
 <br>

@@ -1,4 +1,5 @@
 
+![222222](https://github.com/nsewmini/nsewmini/assets/96427674/2f9c2f94-ca0f-470c-b1c5-9ecee5db3ead)
 
 <h1 align="center">Hi 👋, I'm Navodya Sewmini</h1>
 

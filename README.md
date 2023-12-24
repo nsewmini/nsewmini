@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Navodya Sewmini</h1>
 
 <img align="right" alt="coding" width="350" height="220" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif">

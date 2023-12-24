@@ -8,8 +8,8 @@
 
 
 
-🌱 undergraduate student pursuing a degree in Computer Science<br><br> At NSBM Green University<br><br>
-💞️ With a passion for technology and a strong desire to explore the ever-evolving world of computer science.,<br>
+💞️ undergraduate student pursuing a degree in Computer Science  At NSBM Green University<br><br>
+💞️ With a passion for technology and a strong desire to explore the ever-evolving world of computer science.<br><br>
 💞️goal is to make a meaningful impact in the digital realm and help shape the future of technology.
 <br><br>
 
@@ -168,9 +168,6 @@
 </div>
 <br><br>
 
-<br>
-
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nsewmini&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
@@ -178,13 +175,8 @@
 
 <br>
 <br>
-## 😂 Random Dev Meme
-<div align="center">
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-</div>
-<br>
-<br>
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
